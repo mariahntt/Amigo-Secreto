@@ -1,7 +1,9 @@
 #pai{
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
 }
-button{
+#adicionar, #botao2{
     background-color: rgb(78, 15, 136);
     color: white;
     border-radius: 10px;
@@ -13,4 +15,7 @@ input[type="text"],
 
 textarea {
     padding: 8px;
+}
+#titulo{
+    color: rgb(78, 15, 136) ;
 }
